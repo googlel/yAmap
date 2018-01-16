@@ -1,4 +1,4 @@
-package com.laiyifen.amap;
+package com.liy.amap;
 
 import android.content.Context;
 import android.location.Location;
